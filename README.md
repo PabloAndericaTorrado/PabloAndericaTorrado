@@ -58,10 +58,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAndericaTorrado&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-## 📱 Conéctate conmigo
-
-<p align="center">
-    [
-   ![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Anderica%20Torrado-0e76a8)](https://www.linkedin.com/in/pablo-andérica-torrado-8a5b242b8/)
-    [![Gmail](https://img.shields.io/badge/Gmail-pabloandericatorrado@gmail.com-db4a39)](mailto:pabloandericatorrado@gmail.com)
-</p>
