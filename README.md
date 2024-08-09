@@ -38,19 +38,6 @@
 - 🔧 **Vagrant**
 - 🎮 **Unity**
 
-### Entornos de Desarrollo (IDEs)
-
-- **PhpStorm**
-- **IntelliJ IDEA**
-- **PyCharm**
-- **Visual Studio**
-- **Android Studio**
-- **Visual Studio Code**
-- **Rider**
-- **Eclipse**
-- **Spring Tool Suite**
-- **Unity Engine**
-
 <br>
 <br>
 
