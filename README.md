@@ -45,3 +45,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAndericaTorrado&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+## 📱 Conéctate conmigo
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/pablo-andérica-torrado-8a5b242b8/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Anderica%20Torrado-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:pabloandericatorrado@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-pabloandericatorrado%40gmail.com-db4a39?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+</p>
