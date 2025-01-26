@@ -22,6 +22,7 @@
 - 🎨 **CSS**
 - 🗃️ **MySQL**
 - 🖥️ **Bash**
+- 🛡️ **C**
 
 ### Frameworks
 
