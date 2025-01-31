@@ -1,6 +1,3 @@
-Aquí tienes la traducción al inglés:
-
----
 
 # Hi, I'm Pablo
 
