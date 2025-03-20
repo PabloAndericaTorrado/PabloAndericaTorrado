@@ -1,6 +1,11 @@
 
 # Hi, I'm Pablo
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloAndericaTorrado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloAndericaTorrado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ### About Me
 
 - **📍 Location:** Badajoz - Salamanca, Spain  
@@ -40,10 +45,6 @@
 
 <br>  
 <br>  
-
-<p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAndericaTorrado&layout=compact&theme=radical" alt="Top Languages">  
-</p>  
 
 <p align="center">  
     <a href="https://www.linkedin.com/in/pablo-andérica-torrado-8a5b242b8/" target="_blank">  
