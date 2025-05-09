@@ -11,7 +11,7 @@
 ### About Me
 
 - **📍 Location:** Badajoz - Salamanca, Spain  
-- **🎓 Education:** Computer Engineering student at USAL and Advanced Technician in Application Development
+- **🎓 Education:** Computer Engineering student at [USAL](https://usal.es/ "USAL")  and Advanced Technician in Application Development
 - **🔧 Experience:** Hands-on experience in application development, databases, and programming  
 
 ## 🛠️ Knowledge in  
