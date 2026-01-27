@@ -28,7 +28,8 @@
 - 🎨 **CSS**  
 - 🗃️ **MySQL**  
 - 🖥️ **Bash**  
-- 🛡️ **C**  
+- 🛡️ **C**
+- 💾 **Assembly 6809**
 
 ### Frameworks  
 
