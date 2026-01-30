@@ -2,9 +2,8 @@
 # Hi, I'm Pablo
 <br>  
 <br> 
-<img align="left" alt="PabloAndericaTorrado's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PabloAndericaTorrado&show_icons=true&hide_border=true" />
 
-<div align="right">
+<div align="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloAndericaTorrado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br> 
