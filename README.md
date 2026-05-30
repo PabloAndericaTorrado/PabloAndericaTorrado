@@ -30,6 +30,7 @@
 - 🖥️ **Bash**  
 - 🛡️ **C**
 - 💾 **Assembly 6809**
+- 📊 **MATLAB**
 
 ### Frameworks  
 
